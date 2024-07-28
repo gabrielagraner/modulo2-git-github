@@ -1,6 +1,6 @@
 ## Notas de aula referentes ao módulo 1 do curso de Git e Github
 
-**Principais comandos:*
+**Principais comandos:**
 
 1. Versionamento;
 2. Repositório;
@@ -12,3 +12,5 @@
 8. Push;
 9. Fork;
 10. Pull Request.
+
+OBS: falta adicionar as definições.

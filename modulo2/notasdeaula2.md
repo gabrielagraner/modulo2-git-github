@@ -5,3 +5,6 @@
 1. Passo-a-passo da criação de um repositório local e sua conexão com o repositório remoto no github;
 2. Clonagem de um repositório já existente;
 3. Aplicação do git status, git add e git add ., git commit e git push e pull
+
+OBS: falta adicionar as definições.
+
